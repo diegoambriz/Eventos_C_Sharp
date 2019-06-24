@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickEventExample", "ClickEventExample\ClickEventExample.csproj", "{C2C069A2-650E-433F-8A1C-83BD0875D181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C069A2-650E-433F-8A1C-83BD0875D181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C069A2-650E-433F-8A1C-83BD0875D181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C069A2-650E-433F-8A1C-83BD0875D181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C069A2-650E-433F-8A1C-83BD0875D181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B57089-DFAC-474E-9CEE-1B64B570C3B7}
+	EndGlobalSection
+EndGlobal
